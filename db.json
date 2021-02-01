@@ -1,0 +1,190 @@
+{
+  "bg": "https://res.cloudinary.com/dz5ppacuo/image/upload/v1466341001/csharp-min_buiizq.png",
+  "title": "Quiz C#",
+  "description": "",
+  "questions": [
+    {
+      "image": "https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif",
+      "title": "Qual das alternativas a seguir está correta?",
+      "description": "Esta é para aquecer.",
+      "answer": 3,
+      "alternatives": [
+        "C # é uma linguagem de programação moderna, de uso geral e orientada a objetos desenvolvida pela Microsoft.",
+        "C # foi desenvolvido por Anders Hejlsberg e sua equipe durante o desenvolvimento do .Net Framework.",
+        "C # é projetado para Common Language Infrastructure (CLI).",
+        "Todas as opções acima."
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif",
+      "title": "Qual das palavras-chave a seguir é usada para incluir os namespaces no programa?",
+      "description": "",
+      "answer": 1,
+      "alternatives": [
+        "imports",
+        "using",
+        "exports",
+        "Nenhuma das opções anteriores."
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif",
+      "title": "Qual das afirmações a seguir está correta sobre as convenções de nomenclatura de variáveis?",
+      "description": "",
+      "answer": 2,
+      "alternatives": [
+        "Não deve ser uma palavra-chave C #.",
+        "Não deve conter nenhum espaço ou símbolo embutido como? - +! @ #% ^ & * () [] {}",
+        "Ambas as alternativas.",
+        "Nenhuma das opções anteriores."
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif",
+      "title": "Qual das seguintes afirmações está correta sobre um namespace em C # .NET?",
+      "description": "",
+      "answer": 0,
+      "alternatives": [
+        "Os namespaces nos ajudam a controlar a visibilidade dos elementos presentes nele.",
+        "Um namespace pode conter uma classe, mas não outro namespace.",
+        "Se não for mencionado, o nome 'root' será atribuído ao namespace.",
+        "É necessário usar a instrução using para poder usar um elemento de um namespace."
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif",
+      "title": "Qual das afirmações a seguir está correta sobre as convenções de nomenclatura de variáveis?",
+      "description": "",
+      "answer": 2,
+      "alternatives": [
+        "Um nome deve começar com uma letra que pode ser seguida por uma sequência de letras, dígitos (0 - 9) ou sublinhado.",
+        "O primeiro caractere em um identificador não pode ser um dígito.",
+        "Ambas as alternativas.",
+        "Nenhuma das opções anteriores."  
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif",
+      "title": "Qual das seguintes afirmações está correta?",
+      "description": "",
+      "answer": 0,
+      "alternatives": [
+         "Um construtor pode ser usado para definir valores padrão e limitar a instanciação.",
+         "C # fornece um construtor de cópia.",
+         "Destruidores são usados ​​tanto com classes quanto com estruturas.",
+         "Uma classe pode ter mais de um destruidor."
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif",
+      "title": "Qual das seguintes é uma palavra-chave reservada?",
+      "description": "",
+      "answer": 3,
+      "alternatives": [
+         "abstract",
+         "as",
+         "foreach",
+         "Todas as opções acima."
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif",
+      "title": "Se um namespace estiver presente em uma biblioteca, qual das opções a seguir é a maneira correta de usar os elementos do namespace?",
+      "description": "",
+      "answer": 1,
+      "alternatives": [
+        "Adicione a referência do namespace.",
+        "Adicione a referência e importe o namespace.",
+        "Importe o namespace.",
+        "Copie a biblioteca no mesmo diretório do projeto que está tentando usá-la."
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/dlMIwDQAxXn1K/giphy.gif",
+      "title": "Qual das seguintes é uma palavra-chave contextual em C #?",
+      "description": "",
+      "answer": 3,
+      "alternatives": [
+         "get",
+         "set",
+         "add",
+         "Todas as opções acima."
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/dlMIwDQAxXn1K/giphy.gif",
+      "title": "Qual das alternativas a seguir define o unboxing corretamente?",
+      "description": "",
+      "answer": 1,
+      "alternatives": [
+         "Quando um tipo de valor é convertido em tipo de objeto, ele é chamado de unboxing.",
+         "Quando um tipo de objeto é convertido em um tipo de valor, é chamado de unboxing.",
+         "Ambas as alternativas.",
+         "Nenhuma das opções anteriores."
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/TNf5oSRelTeI8/giphy.gif",
+      "title": "Qual das alternativas a seguir está correta sobre o tipo dinâmico?",
+      "description": "",
+      "answer": 2,
+      "alternatives": [
+         "Você pode armazenar qualquer tipo de valor na variável de tipo de dados dinâmico.",
+         "A verificação de tipo para esses tipos de variáveis ​​ocorre em tempo de execução.",
+         "Ambas as alternativas.",
+         "Nenhuma das opções anteriores."
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif",
+      "title": "Qual das seguintes opções converte um tipo em um valor de byte?",
+      "description": "",
+      "answer": 1,
+      "alternatives": [
+         "ToSingle",
+         "ToByte",
+         "ToChar",
+         "ToDateTime"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif",
+      "title": "Qual destes converte um tipo em um double?",
+      "description": "",
+      "answer": 1,
+      "alternatives": [
+         "ToDecimal",
+         "ToDouble",
+         "ToInt16",
+         "ToInt32"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif",
+      "title": "O polimorfismo dinâmico é implementado por classes abstratas e funções virtuais.",
+      "description": "",
+      "answer": 0,
+      "alternatives": [
+         "Verdadeiro",
+         "Falso"
+      ]
+    }
+  ],
+  "external": [
+    "https://lotr-quiz.filipe1309.vercel.app/",
+    "https://quiz-cavaleiro-zodiaco.vercel.app/",
+    "https://quiz-justiceleague.levi-magny.vercel.app/",
+    "https://naruto-quiz.llofyy.vercel.app/"
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#0d47a1",
+      "secondary": "#000633",
+      "mainBg": "#ffffff",
+      "contrastText": "#FFFFFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}
