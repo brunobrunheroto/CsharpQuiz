@@ -1,8 +1,8 @@
 # Alura Quiz - C#:
-Projeto criado durante a Imersão React Next.js da Alura.
-O projeto se trata de um Quiz com o tema sobre a linguagem de programação C# (escolhido por mim), que permite desafiar as pessoas sobre a linguagem.
+<p>Project created during The React Next.js immersion from Alura platform.</p>
+<p>The project is a Quiz with the theme of the c# programming language (chosen by me), which allows to challenge people about the language.</p>
 
-## Tecnologias Utilizadas
+## <ins>Technologies</ins>
 - next
 - styled-components
 - eslint
